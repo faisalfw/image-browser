@@ -33,7 +33,7 @@ def get_image_links(image_to_search)
 
 	nodes = result.search 'div img'
 	image_links = []
-	nodes.each { |node|
+	nodes.each { |node| 
 		src = node[:src]
 		image_links << src if src =~ /^https/
 	}
