@@ -121,3 +121,9 @@ app = Application.new []
 MyWindow.new.show
 
 app.exec
+
+# the scraper part is bad
+# the Qt library is complex
+# maybe in thefuture, 
+# both will be more simple
+# and of course, better
