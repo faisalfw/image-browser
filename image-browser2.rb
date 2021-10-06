@@ -123,7 +123,6 @@ MyWindow.new.show
 app.exec
 
 # the scraper part is bad
-# the Qt library is complex
-# maybe in thefuture, 
-# both will be more simple
+# the Qt library is complex and i hate its design
+# maybe in thefuture, both will be more simple
 # and of course, better
